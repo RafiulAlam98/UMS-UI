@@ -1,5 +1,12 @@
 "use client";
 
-export default function Error() {
-  return <div>Error</div>;
-}
+const ErrorPage = () => {
+  return (
+    <div>
+      <h1>Something Went Wrong</h1>
+    </div>
+  );
+};
+
+export default ErrorPage;
+<h1></h1>;
